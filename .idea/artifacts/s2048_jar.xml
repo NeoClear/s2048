@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="s2048:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/s2048_jar</output-path>
+    <root id="root">
+      <element id="archive" name="s2048.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="s2048" />
+      </element>
+    </root>
+  </artifact>
+</component>
